@@ -6,4 +6,4 @@ Homework for Boot Camp Week 2: VBA Scripting; Submitted by Corey Lawson-Enos
 
 Includes:
 - VBA script for calculating ticker performance by year across multiple Excel worksheets: yearly/percent change, total volume, and summary high/low performers
-- Screen shots of summary data by year
+- Screen shots of summary data by year: 2018-2020
