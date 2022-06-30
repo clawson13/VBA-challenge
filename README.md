@@ -9,4 +9,4 @@ Includes:
 - Screen shots of summary data by year: 2018-2020
 
 ## Snapshot
-(2020.png)
+![2020](2020.png)
