@@ -1,6 +1,6 @@
-# VBA Homework: The VBA of Wall Street
+# The VBA of Wall Street
 
-Homework for Boot Camp Week 2: VBA Scripting; Submitted by Corey Lawson-Enos
+VBA Scripting Prepared by Corey Lawson-Enos
 
 ## Summary
 
