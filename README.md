@@ -10,3 +10,6 @@ Includes:
 
 ## Snapshot
 ![2020](2020.png)
+## Contact
+E-mail: clawson131@gmail.com<br>
+LinkedIn: https://www.linkedin.com/in/corey-lawson-enos/
